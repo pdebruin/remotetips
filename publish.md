@@ -1,28 +1,24 @@
-# Code
+# Publish
 
 ## Introduction
 
+Once you are done creating your content, it is time to share it. 
 
-
-## Version control
+## OneDrive
 
 Store content centrally
 
-## Work
+## Git
 
 Issues boards prs
 
-## Remote development
-
-Live sharing
-
-## Remote whiteboarding
+## Youtube
 
 Live sharing
 
 ## Navigation
 
-Next you could read about [Publish](./publish.md)
+Next you could read X
 
 Or you could go back to the [Index](./README.md)
 

@@ -16,4 +16,4 @@ After you have established communication, you may want to share actual content. 
 
 Next you could read about [Code](./code.md)
 
-Or you could go back to the [index] (./README.md)
+Or you could go back to the [Index](./README.md)
