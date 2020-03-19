@@ -13,4 +13,4 @@ Then some specifics about code and technical artifacts.
 [Code](./code.md)
 
 After that you may want to share content externally 
-[Publish](./publish.md)
+[Publish](./publish.md) 
